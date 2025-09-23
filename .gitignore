@@ -1,0 +1,42 @@
+# Claude Desktop Configuration Repository
+
+# Settings file (may contain personal/machine-specific configurations)
+settings.json
+
+# Database files (local state)
+__store.db
+*.db
+*.sqlite
+
+# Shell snapshots (machine-specific session data)
+shell-snapshots/
+
+# Project references (machine-specific paths)
+projects/
+
+# Plugins (not ready to share yet)
+plugins/
+
+# Statsig data (analytics/telemetry)
+statsig/
+
+# Todos (personal notes)
+todos/
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
