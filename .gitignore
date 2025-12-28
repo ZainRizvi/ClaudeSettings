@@ -2,6 +2,7 @@
 
 # Settings file (may contain personal/machine-specific configurations)
 settings.json
+settings.local.json
 
 # Database files (local state)
 __store.db
@@ -22,6 +23,9 @@ statsig/
 
 # Todos (personal notes)
 todos/
+
+# Experimental commands
+commands/f-*
 
 # macOS system files
 .DS_Store
